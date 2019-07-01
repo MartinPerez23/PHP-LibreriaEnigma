@@ -1,0 +1,61 @@
+header {
+    width: 100%;
+    height: auto;
+    background-color: #caae53;
+}
+
+body {
+    background-color: #ffffb3;
+}
+
+.footer {
+    color: darkorange;
+    padding: 50px 0;
+    font-family: 'Patua One', cursive;
+    background: url('../img/footer.png') center;
+
+}
+
+.fondologo {
+    background-color: chocolate;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+h3 {
+    font-family: 'Patua One', cursive;
+}
+
+.colortarjetas {
+    background-color: #ffe082;
+}
+
+.colornavbar {
+    background-color: #caae53;
+}
+
+.autores {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+
+}
+
+.parrafos {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+td
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bordeamarillo 
+{
+    border-width: 3px; 
+    border-style: double;   
+    border-color: darkgoldenrod;
+    
+}
